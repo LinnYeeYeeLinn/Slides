@@ -1,0 +1,20 @@
+$list-group-active-bg: #fff;
+$list-group-bg: transparent;
+$list-group-border-color: #eee;
+$list-group-color: #fff;
+$list-group-active-bg: #fff;
+$list-group-active-color: #111;
+$list-group-hover-bg: rgba(0, 0, 0, 0.274);
+$list-group-action-hover-color: #fff;
+
+$card-bg: transparent;
+
+$secondary: #fff;
+$danger: rgb(10, 184, 10);
+
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+
+.videoList li{
+    letter-spacing: 2px;
+}
